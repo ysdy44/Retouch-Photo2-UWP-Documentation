@@ -1,13 +1,14 @@
- 2020.5.29
+ # 文档
+
+ [中文简体](README-ZH.md) 
+
+
+ # Documentation
+ [English](README-EN.md) 
  
  # Welcome
 Welcome to the Retouch Photo2  Documentation.
 
 ![](Assets/logo.png)
 
-
-# Language
-
- [中文简体](README-ZH.md) 
-
- [English](README-EN.md) 
+ 2020.5.29

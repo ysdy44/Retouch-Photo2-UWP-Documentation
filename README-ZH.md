@@ -44,7 +44,7 @@
 
 
 ## 所有菜单
-- [操作菜单](zh-CN/AllMenus_EditMenu.md)
+- [编辑菜单](zh-CN/AllMenus_EditMenu.md)
 - [操作菜单](zh-CN/AllMenus_OperateMenu.md)
 - [//调整菜单](#调整菜单)
 - [//特效菜单](#特效菜单)

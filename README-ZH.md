@@ -46,7 +46,7 @@
    - [**//样式菜单**](#样式菜单)
    - [**变换菜单**](zh-CN/AllMenus_TransformerMenu.md)
    - [**图层菜单**](zh-CN/AllMenus_LayerMenu.md)
-   - [**//颜色菜单**](#颜色菜单)
+   - [**颜色菜单**](zh-CN/AllMenus_ColorMenu.md)
 
 
 **5-** [**图形工具**](#图形工具)

@@ -32,7 +32,7 @@
 |**位置遥控**|**Navigate to second page**|
 |**Y-轴**|**Vertical position**|
 
-> “位置遥控”在第二页面
+> **“位置遥控”在第二页面**
 
 ---
 <br/>
@@ -53,9 +53,9 @@
 # **锚点指示器**
 ![Image](Images/AllMenus_TransformerMenu_AnchorPointIndicator.jpg)
 
-> Click on an anchor point to select.
+> **Click on an anchor point to select**
 
-> If the upper-left anchor point of the anchor indicator is selected, the center point of the transformation is in the upper-left corner of the layer
+> **If the upper-left anchor point of the anchor indicator is selected, the center point of the transformation is in the upper-left corner of the layer**
 
 
 

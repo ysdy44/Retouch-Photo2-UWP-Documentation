@@ -8,6 +8,8 @@
 
 
 ---
+<br/>
+
 ## **编辑**
 ![Image](Images/AllMenus_EditMenu_Edit.jpg)
 
@@ -21,6 +23,8 @@
 
 
 ---
+<br/>
+
 ## **组**
 ![Image](Images/AllMenus_EditMenu_Group.jpg)
 
@@ -32,6 +36,8 @@
 
 
 ---
+<br/>
+
 ## **选择**
 ![Image](Images/AllMenus_EditMenu_Select.jpg)
 
@@ -43,6 +49,8 @@
 
 
 ---
+<br/>
+
 ## **结合**
 ![Image](Images/AllMenus_EditMenu_Combine.jpg)
 
@@ -54,9 +62,6 @@
 |**相交**|**The result geometry contains any area that is in the first source geometry- but  excludes any area belonging to the second geometry**|
 |**展开描边**|**Returns a geometry equivalent to a stroked area of this geometry, with the specified stroke width and a default stroke style**|
 
+<br/>
 
----
 > **“展开描边”：选定图层必须有描边，或者描边宽度不为零**
-
-
----

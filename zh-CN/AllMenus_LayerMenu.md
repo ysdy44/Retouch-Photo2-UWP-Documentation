@@ -12,18 +12,25 @@
 
 
 ---
+<br/>
+
 ## **名称**
 ![Image](Images/AllMenus_LayerMenu_Name.jpg)
 
 
 ---
+<br/>
+
 ## **不透明度**
 ![Image](Images/AllMenus_LayerMenu_Opacity.jpg)
 
 
 ---
+<br/>
+
 ## **混合模式**
 ![Image](Images/AllMenus_LayerMenu_BlendMode.jpg)
+<br/>
 ![Image](Images/AllMenus_LayerMenu_BlendMode_Second.jpg)
 
 |**模式**|**介绍**|
@@ -36,18 +43,21 @@
 
 
 ---
+<br/>
+
 ## **可视**
 ![Image](Images/AllMenus_LayerMenu_Visibility.jpg)
 
 
 ---
+<br/>
+
 ## **样式跟随变换**
 ![Image](Images/AllMenus_LayerMenu_FollowTransform.jpg)
 
 
 ---
+<br/>
+
 ## **标签类型**
 ![Image](Images/AllMenus_LayerMenu_TagType.jpg)
-
-
----

@@ -30,7 +30,7 @@
 
 ## **混合模式**
 ![Image](Images/AllMenus_LayerMenu_BlendMode.jpg)
-<br/>
+
 ![Image](Images/AllMenus_LayerMenu_BlendMode_Second.jpg)
 
 |**模式**|**介绍**|

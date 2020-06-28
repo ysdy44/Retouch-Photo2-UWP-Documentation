@@ -40,7 +40,7 @@
    - [**编辑菜单**](zh-CN/AllMenus_EditMenu.md)
    - [**操作菜单**](zh-CN/AllMenus_OperateMenu.md)
    - [**//调整菜单**](#调整菜单)
-   - [**//特效菜单**](#特效菜单)
+   - [**特效菜单**](zh-CN/AllMenus_EffectMenu.md)
    - [**文本菜单**](zh-CN/AllMenus_TextMenu.md)
    - [**//描边菜单**](#描边菜单)
    - [**//样式菜单**](#样式菜单)

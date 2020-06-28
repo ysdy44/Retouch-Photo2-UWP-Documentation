@@ -37,15 +37,15 @@
 
 
 **4-** [**所有菜单**](#所有菜单)
-   - [**编辑菜单**](zh-CN/AllMenus_EditMenu-md)
-   - [**操作菜单**](zh-CN/AllMenus_OperateMenu-md)
+   - [**编辑菜单**](zh-CN/AllMenus_EditMenu.md)
+   - [**操作菜单**](zh-CN/AllMenus_OperateMenu.md)
    - [**//调整菜单**](#调整菜单)
    - [**//特效菜单**](#特效菜单)
    - [**//文本菜单**](#文本菜单)
    - [**//描边菜单**](#描边菜单)
    - [**//样式菜单**](#样式菜单)
    - [**//变换菜单**](#变换菜单)
-   - [**图层菜单**](zh-CN/AllMenus_LayerMenu-md)
+   - [**图层菜单**](zh-CN/AllMenus_LayerMenu.md)
    - [**//颜色菜单**](#颜色菜单)
 
 

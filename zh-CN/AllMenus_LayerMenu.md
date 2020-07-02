@@ -16,6 +16,7 @@
 
 ## **名称**
 ![Image](Images/AllMenus_LayerMenu_Name.jpg)
+> **改变图层的名称**
 
 
 ---
@@ -23,6 +24,7 @@
 
 ## **不透明度**
 ![Image](Images/AllMenus_LayerMenu_Opacity.jpg)
+> **改变图层的不透明度**
 
 
 ---
@@ -30,6 +32,7 @@
 
 ## **混合模式**
 ![Image](Images/AllMenus_LayerMenu_BlendMode.jpg)
+> A blend-mode that combines two layers
 
 ![Image](Images/AllMenus_LayerMenu_BlendMode_Second.jpg)
 
@@ -47,6 +50,7 @@
 
 ## **可视**
 ![Image](Images/AllMenus_LayerMenu_Visibility.jpg)
+> **"不选中"时：图层不显示**
 
 
 ---
@@ -54,6 +58,13 @@
 
 ## **样式跟随变换**
 ![Image](Images/AllMenus_LayerMenu_FollowTransform.jpg)
+> **"选中"时：笔刷的控制点位置 跟随 图层的变换**
+
+<br/>
+
+![Image](Images/AllMenus_LayerMenu_FollowTransform_Checked.jpg)
+
+![Image](Images/AllMenus_LayerMenu_FollowTransform_UnChecked.jpg)
 
 
 ---
@@ -61,3 +72,4 @@
 
 ## **标签类型**
 ![Image](Images/AllMenus_LayerMenu_TagType.jpg)
+> **多彩的图层标签**

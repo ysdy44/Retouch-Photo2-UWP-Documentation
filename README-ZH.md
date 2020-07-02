@@ -39,7 +39,7 @@
 **4-** [**所有菜单**](#所有菜单)
    - [**编辑菜单**](zh-CN/AllMenus_EditMenu.md)
    - [**操作菜单**](zh-CN/AllMenus_OperateMenu.md)
-   - [**//调整菜单**](#调整菜单)
+   - [**调整菜单**](zh-CN/AllMenus_AdjustmentMenu.md)
    - [**图层FX菜单**](zh-CN/AllMenus_EffectMenu.md)
    - [**文本菜单**](zh-CN/AllMenus_TextMenu.md)
    - [**描边菜单**](zh-CN/AllMenus_StrokeMenu.md)

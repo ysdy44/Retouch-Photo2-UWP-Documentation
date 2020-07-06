@@ -8,6 +8,9 @@
 ![Image](Assets/logo.png)
 # **修图2 教程**
 **阅读教程以帮助您开始使用 修图2**
+ 
+ Windows 10 应用商店地址: 
+[Buy Retouch Photo2 - Microsoft Store](https://www.microsoft.com/store/productId/9P76ZF661496)   
 
 
 ---

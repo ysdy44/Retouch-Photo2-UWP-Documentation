@@ -2,7 +2,7 @@
 
 //未完成
 
-2020.7.3
+2020.7.6
 
 
 ![Image](Assets/logo.png)
@@ -11,6 +11,10 @@
  
  Windows 10 应用商店地址: 
 [Buy Retouch Photo2 - Microsoft Store](https://www.microsoft.com/store/productId/9P76ZF661496)   
+ 
+ 如果当前Github网页不显示图片，你可以跳转: 
+[Retouch-Photo2-UWP-Documentation - 码云 - 开源中国](https://gitee.com/ysdy44/Retouch-Photo2-UWP-Documentation/blob/master/README-ZH.md)   
+
 
 
 ---

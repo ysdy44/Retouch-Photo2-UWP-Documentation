@@ -53,9 +53,9 @@
 
 ![Image](Images/AllMenus_ColorMenu_Straw_Second.jpg)
 
-> **Drag the icon to select the color**
+> **1.Drag the icon to select the color**
 
-> **Click on the circle to change the color**
+> **2.Click on the circle to change the color**
 
 ---
 <br/>

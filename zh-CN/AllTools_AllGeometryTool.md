@@ -76,7 +76,6 @@
 # **转换为曲线**
 ![Image](Images/AllTools_GeometryTool_Convert.jpg)
 > **把几何图层、字体图层、图像图层转换为曲线图层**
-r/>
 
 
 ---

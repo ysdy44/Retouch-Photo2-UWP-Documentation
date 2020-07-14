@@ -34,11 +34,10 @@
    - [**笔刷工具**](zh-CN/AllTools_BrushTool.md)
    - [**//钢笔工具**](#钢笔工具)
    - [**//节点工具**](#节点工具)
-   - [**//艺术文本工具**](#艺术文本工具)
-   - [**//框架文本工具**](#框架文本工具)
    - [**图像工具**](zh-CN/AllTools_ImageTool.md)
    - [**//矢量裁剪工具**](#矢量裁剪工具)
    - [**所有几何工具**](#zh-CN/AllTools_AllGeometryTool.md)
+   - [**所有文本工具**](#zh-CN/AllTools_AllTextTool.md)
    - [**所有图案工具**](zh-CN/AllTools_AllPatternTool.md)
 
 

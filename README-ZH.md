@@ -36,8 +36,8 @@
    - [**//节点工具**](#节点工具)
    - [**图像工具**](zh-CN/Tools_ImageTool.md)
    - [**//矢量裁剪工具**](#矢量裁剪工具)
-   - [**所有几何工具**](#zh-CN/Tools_GeometrysTool.md)
-   - [**所有文本工具**](#zh-CN/Tools_TextsTool.md)
+   - [**所有几何工具**](zh-CN/Tools_GeometrysTool.md)
+   - [**所有文本工具**](zh-CN/Tools_TextsTool.md)
    - [**所有图案工具**](zh-CN/Tools_PatternsTool.md)
 
 

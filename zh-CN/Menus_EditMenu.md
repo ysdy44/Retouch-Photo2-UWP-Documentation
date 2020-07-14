@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_EditMenu.png)
+![Image](Images/Menus_EditMenu.png)
 # **编辑菜单**
 **编辑菜单提供了编辑、组、选择、结合等功能**
 - [**编辑**](#编辑)
@@ -11,7 +11,7 @@
 <br/>
 
 ## **编辑**
-![Image](Images/AllMenus_EditMenu_Edit.jpg)
+![Image](Images/Menus_EditMenu_Edit.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -26,7 +26,7 @@
 <br/>
 
 ## **组**
-![Image](Images/AllMenus_EditMenu_Group.jpg)
+![Image](Images/Menus_EditMenu_Group.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -39,7 +39,7 @@
 <br/>
 
 ## **选择**
-![Image](Images/AllMenus_EditMenu_Select.jpg)
+![Image](Images/Menus_EditMenu_Select.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -52,7 +52,7 @@
 <br/>
 
 ## **结合**
-![Image](Images/AllMenus_EditMenu_Combine.jpg)
+![Image](Images/Menus_EditMenu_Combine.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|

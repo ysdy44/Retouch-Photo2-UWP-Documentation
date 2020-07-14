@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_StrokeMenu.png)
+![Image](Images/Menus_StrokeMenu.png)
 # **描边菜单**
 **描边菜单用来修改描边样式的破折、宽度、端点、拐角、偏移等属性**
 - [**破折**](#破折)
@@ -12,9 +12,9 @@
 <br/>
 
 # **破折**
-![Image](Images/AllMenus_StrokeMenu_Dash.jpg)
+![Image](Images/Menus_StrokeMenu_Dash.jpg)
 
-![Image](Images/AllMenus_StrokeMenu_Dash_Second.jpg)
+![Image](Images/Menus_StrokeMenu_Dash_Second.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -28,16 +28,16 @@
 <br/>
 
 # **宽度**
-![Image](Images/AllMenus_StrokeMenu_Width.jpg)
+![Image](Images/Menus_StrokeMenu_Width.jpg)
 
 
 ---
 <br/>
 
 # **端点**
-![Image](Images/AllMenus_StrokeMenu_Cap.jpg)
+![Image](Images/Menus_StrokeMenu_Cap.jpg)
 
-![Image](Images/AllMenus_StrokeMenu_Cap_Second.jpg)
+![Image](Images/Menus_StrokeMenu_Cap_Second.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -53,9 +53,9 @@
 <br/>
 
 # **拐角**
-![Image](Images/AllMenus_StrokeMenu_Join.jpg)
+![Image](Images/Menus_StrokeMenu_Join.jpg)
 
-![Image](Images/AllMenus_StrokeMenu_Join_Second.jpg)
+![Image](Images/Menus_StrokeMenu_Join_Second.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -69,6 +69,6 @@
 <br/>
 
 # **偏移**
-![Image](Images/AllMenus_StrokeMenu_Offset.jpg)
+![Image](Images/Menus_StrokeMenu_Offset.jpg)
 
 > 路径开始的距离

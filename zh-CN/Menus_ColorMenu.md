@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_ColorMenu.png)
+![Image](Images/Menus_ColorMenu.png)
 # **颜色菜单**
 **颜色菜单用来修改颜色的A、RGB、HSV等属性**
 - [**A**](#A)
@@ -12,7 +12,7 @@
 <br/>
 
 # **A**
-![Image](Images/AllMenus_ColorMenu_A.jpg)
+![Image](Images/Menus_ColorMenu_A.jpg)
 
 |**按钮**|**介绍**|**范围**|
 |:-|:-|:-|
@@ -23,7 +23,7 @@
 <br/>
 
 # **RGB**
-![Image](Images/AllMenus_ColorMenu_RGB.jpg)
+![Image](Images/Menus_ColorMenu_RGB.jpg)
 
 |**按钮**|**介绍**|**范围**|
 |:-|:-|:-|
@@ -36,7 +36,7 @@
 <br/>
 
 # **HSV**
-![Image](Images/AllMenus_ColorMenu_HSV.jpg)
+![Image](Images/Menus_ColorMenu_HSV.jpg)
 
 |**按钮**|**介绍**|**范围**|
 |:-|:-|:-|
@@ -49,9 +49,9 @@
 <br/>
 
 # **Straw**
-![Image](Images/AllMenus_ColorMenu_Straw.jpg)
+![Image](Images/Menus_ColorMenu_Straw.jpg)
 
-![Image](Images/AllMenus_ColorMenu_Straw_Second.jpg)
+![Image](Images/Menus_ColorMenu_Straw_Second.jpg)
 
 > **1.Drag the icon to select the color**
 
@@ -61,7 +61,7 @@
 <br/>
 
 # **Hex**
-![Image](Images/AllMenus_ColorMenu_Hex.jpg)
+![Image](Images/Menus_ColorMenu_Hex.jpg)
 
 **In mathematics and computing, hexadecimal (also base, or hex) are a positional numeral system with a radix, or base, of It uses sixteen distinct symbols, most often the symbols 0–9 to represent values zero to nine, and a–f (or alternative Ly a–f) to the represent values ten to fifteen**
 

@@ -1,4 +1,4 @@
-﻿![Image](Images/AllTools_BrushTool.png)
+﻿![Image](Images/Tools_BrushTool.png)
 # **笔刷工具**
 **笔刷工具用来修改图层的填充、描边等属性**
 - [**填充或描边**](#填充或描边)
@@ -13,17 +13,17 @@
 <br/>
 
 # **填充或描边**
-![Image](Images/AllTools_BrushTool_FillOrStroke.jpg)
+![Image](Images/Tools_BrushTool_FillOrStroke.jpg)
 > **一个图层包含两个笔刷：填充笔刷与描边笔刷**
 
-![Image](Images/AllTools_BrushTool_FillOrStroke_Second.jpg)
+![Image](Images/Tools_BrushTool_FillOrStroke_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
 |**填充**|**用来填充形状内部区域的笔刷A brush used to fill the inner area of the shape**|
 |**描边**|**用来指定形状轮廓绘制方式的笔刷 A brush used to specify how shape outlines are drawn**|
 
-![Image](Images/AllTools_BrushTool_FillOrStroke_Third.jpg)
+![Image](Images/Tools_BrushTool_FillOrStroke_Third.jpg)
 
 
 
@@ -32,10 +32,10 @@
 <br/>
 
 # **类型**
-![Image](Images/AllTools_BrushTool_Type.jpg)
+![Image](Images/Tools_BrushTool_Type.jpg)
 > **笔刷包含六种不同的类型**
 
-![Image](Images/AllTools_BrushTool_Type_Second.jpg)
+![Image](Images/Tools_BrushTool_Type_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
@@ -48,14 +48,14 @@
 
 > **Image brush can be used to producing  tiled backgrounds, or filling geometry with a pattern**
 
-![Image](Images/AllTools_BrushTool_Type_Third.jpg)
+![Image](Images/Tools_BrushTool_Type_Third.jpg)
 
 
 ---
 <br/>
 
 # **笔刷**
-![Image](Images/AllTools_BrushTool_Brush.jpg)
+![Image](Images/Tools_BrushTool_Brush.jpg)
 > **笔刷类型不同，点击时展示的浮出菜单也不同**
 
 |**类型**|**介绍**|
@@ -74,10 +74,10 @@
 <br/>
 
 # **扩展**
-![Image](Images/AllTools_BrushTool_Extend.jpg)
+![Image](Images/Tools_BrushTool_Extend.jpg)
 > **Specifies the way in which a brush paints areas outside its typical**
 
-![Image](Images/AllTools_BrushTool_Extend_Second.jpg)
+![Image](Images/Tools_BrushTool_Extend_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
@@ -85,4 +85,4 @@
 |**换行**|**Tile the brush's content**|
 |**镜像**|**Tile the the brush's content, and flip each alternate tile**| 
 
-![Image](Images/AllTools_BrushTool_Extend_Third.jpg)
+![Image](Images/Tools_BrushTool_Extend_Third.jpg)

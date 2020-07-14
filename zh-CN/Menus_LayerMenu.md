@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_LayerMenu.png)
+![Image](Images/Menus_LayerMenu.png)
 # **图层菜单**
 **图层菜单用来修改图层的属性**
 > **你可以双击或者右键图层项来显示图层菜单**
@@ -15,7 +15,7 @@
 <br/>
 
 ## **名称**
-![Image](Images/AllMenus_LayerMenu_Name.jpg)
+![Image](Images/Menus_LayerMenu_Name.jpg)
 > **改变图层的名称**
 
 
@@ -23,7 +23,7 @@
 <br/>
 
 ## **不透明度**
-![Image](Images/AllMenus_LayerMenu_Opacity.jpg)
+![Image](Images/Menus_LayerMenu_Opacity.jpg)
 > **改变图层的不透明度**
 
 
@@ -31,10 +31,10 @@
 <br/>
 
 ## **混合模式**
-![Image](Images/AllMenus_LayerMenu_BlendMode.jpg)
+![Image](Images/Menus_LayerMenu_BlendMode.jpg)
 > A blend-mode that combines two layers
 
-![Image](Images/AllMenus_LayerMenu_BlendMode_Second.jpg)
+![Image](Images/Menus_LayerMenu_BlendMode_Second.jpg)
 
 |**模式**|**介绍**|
 |:-|:-|
@@ -49,7 +49,7 @@
 <br/>
 
 ## **可视**
-![Image](Images/AllMenus_LayerMenu_Visibility.jpg)
+![Image](Images/Menus_LayerMenu_Visibility.jpg)
 > **"不选中"时：图层不显示**
 
 
@@ -57,19 +57,19 @@
 <br/>
 
 ## **样式跟随变换**
-![Image](Images/AllMenus_LayerMenu_FollowTransform.jpg)
+![Image](Images/Menus_LayerMenu_FollowTransform.jpg)
 > **"选中"时：笔刷的控制点位置 跟随 图层的变换**
 
 <br/>
 
-![Image](Images/AllMenus_LayerMenu_FollowTransform_Checked.jpg)
+![Image](Images/Menus_LayerMenu_FollowTransform_Checked.jpg)
 
-![Image](Images/AllMenus_LayerMenu_FollowTransform_UnChecked.jpg)
+![Image](Images/Menus_LayerMenu_FollowTransform_UnChecked.jpg)
 
 
 ---
 <br/>
 
 ## **标签类型**
-![Image](Images/AllMenus_LayerMenu_TagType.jpg)
+![Image](Images/Menus_LayerMenu_TagType.jpg)
 > **多彩的图层标签**

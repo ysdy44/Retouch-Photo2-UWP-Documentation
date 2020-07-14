@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_TextMenu.png)
+![Image](Images/Menus_TextMenu.png)
 # **字体菜单**
 **字体菜单用来修改文本的对齐、字体样式、字体粗细、字体、字体大小等属性**
 - [**对齐**](#对齐)
@@ -12,7 +12,7 @@
 <br/>
 
 # **对齐**
-![Image](Images/AllMenus_TextMenu_Align.jpg)
+![Image](Images/Menus_TextMenu_Align.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -25,7 +25,7 @@
 <br/>
 
 # **字体样式**
-![Image](Images/AllMenus_TextMenu_FontStyle.jpg)
+![Image](Images/Menus_TextMenu_FontStyle.jpg)
 
 |**按钮**|
 |:-|
@@ -38,9 +38,9 @@
 <br/>
 
 # **字体粗细**
-![Image](Images/AllMenus_TextMenu_FontWeight.jpg)
+![Image](Images/Menus_TextMenu_FontWeight.jpg)
 
-![Image](Images/AllMenus_TextMenu_FontWeight_Second.jpg)
+![Image](Images/Menus_TextMenu_FontWeight_Second.jpg)
 
 |**模式**|**粗细**|
 |:-|:-|
@@ -55,7 +55,7 @@
 <br/>
 
 # **字体**
-![Image](Images/AllMenus_TextMenu_FontFamily.jpg)
+![Image](Images/Menus_TextMenu_FontFamily.jpg)
 
 > **从你的设备上寻找可用字体**
 
@@ -63,4 +63,4 @@
 <br/>
 
 # **字体大小**
-![Image](Images/AllMenus_TextMenu_FontSize.jpg)
+![Image](Images/Menus_TextMenu_FontSize.jpg)

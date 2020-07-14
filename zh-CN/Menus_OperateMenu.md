@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_OperateMenu.png)
+![Image](Images/Menus_OperateMenu.png)
 # **操作菜单**
 **操作菜单提供了变换、排列、水平对齐、垂直对齐等功能**
 - [**变换**](#变换)
@@ -11,7 +11,7 @@
 <br/>
 
 # **变换**
-![Image](Images/AllMenus_OperateMenu_Transform.jpg)
+![Image](Images/Menus_OperateMenu_Transform.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -25,7 +25,7 @@
 <br/>
 
 # **排列**
-![Image](Images/AllMenus_OperateMenu_Arrange.jpg)
+![Image](Images/Menus_OperateMenu_Arrange.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -39,7 +39,7 @@
 <br/>
 
 # **水平对齐**
-![Image](Images/AllMenus_OperateMenu_HorizontallyAlignment.jpg)
+![Image](Images/Menus_OperateMenu_HorizontallyAlignment.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -53,7 +53,7 @@
 <br/>
 
 # **垂直对齐**
-![Image](Images/AllMenus_OperateMenu_VerticallyAlignment.jpg)
+![Image](Images/Menus_OperateMenu_VerticallyAlignment.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -68,16 +68,16 @@
 
 > **当只有一个选定图层，选定图层会对齐到画布的边缘**
 
-![Image](Images/AllMenus_OperateMenu_AlignmentSingle.jpg)
+![Image](Images/Menus_OperateMenu_AlignmentSingle.jpg)
 
 <br/>
 
 > **当存在多个选定图层，选定图层会对齐到选定图层的边缘**
 
-![Image](Images/AllMenus_OperateMenu_AlignmentMultiple.jpg)
+![Image](Images/Menus_OperateMenu_AlignmentMultiple.jpg)
 
 <br/>
 
 > **“水平间隔” “垂直间隔”：必须有三个及以上的选定图层**
 
-![Image](Images/AllMenus_OperateMenu_Space.jpg)
+![Image](Images/Menus_OperateMenu_Space.jpg)

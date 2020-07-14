@@ -1,4 +1,4 @@
-![Image](Images/AllMenus_TransformerMenu.png)
+![Image](Images/Menus_TransformerMenu.png)
 # **变换菜单**
 **变换菜单提供了缩放、移动、旋转、倾斜等功能**
 - [**缩放**](#缩放)
@@ -11,7 +11,7 @@
 <br/>
 
 # **缩放**
-![Image](Images/AllMenus_TransformerMenu_Size.jpg)
+![Image](Images/Menus_TransformerMenu_Size.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -24,7 +24,7 @@
 <br/>
 
 # **移动**
-![Image](Images/AllMenus_TransformerMenu_Move.jpg)
+![Image](Images/Menus_TransformerMenu_Move.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -38,7 +38,7 @@
 <br/>
 
 # **旋转与倾斜**
-![Image](Images/AllMenus_TransformerMenu_RotateAndSkew.jpg)
+![Image](Images/Menus_TransformerMenu_RotateAndSkew.jpg)
 
 |**按钮**|**介绍**|
 |:-|:-|
@@ -51,7 +51,7 @@
 <br/>
 
 # **锚点指示器**
-![Image](Images/AllMenus_TransformerMenu_AnchorPointIndicator.jpg)
+![Image](Images/Menus_TransformerMenu_AnchorPointIndicator.jpg)
 
 > **Click on an anchor point to select**
 

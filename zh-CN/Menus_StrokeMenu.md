@@ -1,11 +1,14 @@
 ![Image](Images/Menus_StrokeMenu.png)
 # **描边菜单**
-**描边菜单用来修改描边样式的破折、宽度、端点、拐角、偏移等属性**
+**描边菜单用来修改描边样式的破折、描边宽度、端点、拐角、偏移等属性**
 - [**破折**](#破折)
-- [**宽度**](#宽度)
+- [**描边宽度**](#描边宽度)
 - [**端点**](#端点)
 - [**拐角**](#拐角)
 - [**偏移**](#偏移)
+- [**样式跟随变换**](#样式跟随变换)
+- [**描边在填充之后**](#描边在填充之后)
+- [**描边宽度跟随缩放**](#描边宽度跟随缩放)
 
 
 ---
@@ -27,8 +30,9 @@
 ---
 <br/>
 
-# **宽度**
-![Image](Images/Menus_StrokeMenu_Width.jpg)
+# **描边宽度**
+![Image](Images/Menus_StrokeMenu_StrokeWidth.jpg)
+> **描边的宽度**
 
 
 ---
@@ -70,5 +74,44 @@
 
 # **偏移**
 ![Image](Images/Menus_StrokeMenu_Offset.jpg)
+> **描边路径开始的距离**
 
-> 路径开始的距离
+
+---
+<br/>
+
+## **样式跟随变换**
+![Image](Images/Menus_StrokeMenu_IsFollowTransform.jpg)
+> **"选中"时：样式的笔刷的控制点位置 跟随 图层的变换**
+
+<br/>
+
+![Image](Images/Menus_StrokeMenu_IsFollowTransform_Checked.jpg)
+
+![Image](Images/Menus_StrokeMenu_IsFollowTransform_UnChecked.jpg)
+
+
+---
+<br/>
+
+## **描边在填充之后**
+![Image](Images/Menus_StrokeMenu_IsStrokeBehindFill.jpg)
+> **"选中"时：样式的描边在填充之后**
+
+<br/>
+
+![Image](Images/Menus_StrokeMenu_IsStrokeWidthFollowScale_Second.jpg)
+
+
+---
+<br/>
+
+## **描边宽度跟随缩放**
+![Image](Images/Menus_StrokeMenu_IsStrokeWidthFollowScale.jpg)
+> **"选中"时：样式的描边宽度 跟随 图层的缩放**
+
+<br/>
+
+![Image](Images/Menus_StrokeMenu_IsStrokeWidthFollowScale_Checked.jpg)
+
+![Image](Images/Menus_StrokeMenu_IsStrokeWidthFollowScale_UnChecked.jpg)

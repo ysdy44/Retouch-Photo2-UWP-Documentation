@@ -7,7 +7,6 @@
 - [**不透明度**](#不透明度)
 - [**混合模式**](#混合模式)
 - [**可视**](#可视)
-- [**样式跟随变换**](#样式跟随变换)
 - [**标签类型**](#标签类型)
 
 
@@ -24,6 +23,8 @@
 
 ## **不透明度**
 ![Image](Images/Menus_LayerMenu_Opacity.jpg)
+
+![Image](Images/Menus_LayerMenu_Opacity_Second.jpg)
 > **改变图层的不透明度**
 
 
@@ -51,20 +52,6 @@
 ## **可视**
 ![Image](Images/Menus_LayerMenu_Visibility.jpg)
 > **"不选中"时：图层不显示**
-
-
----
-<br/>
-
-## **样式跟随变换**
-![Image](Images/Menus_LayerMenu_FollowTransform.jpg)
-> **"选中"时：笔刷的控制点位置 跟随 图层的变换**
-
-<br/>
-
-![Image](Images/Menus_LayerMenu_FollowTransform_Checked.jpg)
-
-![Image](Images/Menus_LayerMenu_FollowTransform_UnChecked.jpg)
 
 
 ---

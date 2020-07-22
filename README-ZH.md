@@ -26,7 +26,7 @@
 
 **2-** [**高级操作**](#高级操作)
    - [**图层栏**](zh-CN/AdvancedAction_LayerPanel.md)
-   - [**//图库页**](#图库页)
+   - [**图库页**](zh-CN/AdvancedAction_PhotosPage.md)
 
 
 **3-** [**所有工具**](#所有工具)

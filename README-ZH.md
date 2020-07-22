@@ -2,7 +2,7 @@
 
 //未完成
 
-2020.7.15
+2020.7.22
 
 
 ![Image](Assets/logo.png)
@@ -25,20 +25,21 @@
 
 
 **2-** [**高级操作**](#高级操作)
-   - [**图层**](zh-CN/AdvancedAction_Layer.md)
+   - [**图层栏**](zh-CN/AdvancedAction_LayerPanel.md)
+   - [**//图库页**](#图库页)
 
 
 **3-** [**所有工具**](#所有工具)
    - [**光标工具**](zh-CN/Tools_CursorTool.md)
    - [**视图工具**](zh-CN/Tools_ViewTool.md)
    - [**笔刷工具**](zh-CN/Tools_BrushTool.md)
-   - [**//钢笔工具**](#钢笔工具)
-   - [**//节点工具**](#节点工具)
    - [**图像工具**](zh-CN/Tools_ImageTool.md)
    - [**矢量裁剪工具**](zh-CN/Tools_CropTool.md)
    - [**所有几何工具**](zh-CN/Tools_GeometrysTool.md)
    - [**所有文本工具**](zh-CN/Tools_TextsTool.md)
    - [**所有图案工具**](zh-CN/Tools_PatternsTool.md)
+   - [**钢笔工具、节点工具**](zh-CN/Tools_PenNodeTool.md)
+
 
 
 **4-** [**所有菜单**](#所有菜单)

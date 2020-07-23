@@ -26,8 +26,6 @@
 ![Image](Images/Tools_BrushTool_FillOrStroke_Third.jpg)
 
 
-
-
 ---
 <br/>
 

@@ -1,8 +1,5 @@
-该文档正在完善中，可能有残缺...
-
-//未完成
-
-2020.7.22
+该文档正在完善中...
+2020.7.24
 
 
 ![Image](Assets/logo.png)
@@ -12,10 +9,6 @@
  Windows 10 应用商店地址: 
 [Buy Retouch Photo2 - Microsoft Store](https://www.microsoft.com/store/productId/9P76ZF661496)   
  
- 如果当前Github网页不显示图片，你可以跳转Gitee : 
-[Retouch-Photo2-UWP-Documentation - 码云 - 开源中国](https://gitee.com/ysdy44/Retouch-Photo2-UWP-Documentation/blob/master/README-ZH.md)   
-
-
 
 ---
 <br/>
@@ -26,7 +19,7 @@
 
 **2-** [**高级操作**](#高级操作)
    - [**图层栏**](zh-CN/AdvancedAction_LayerPanel.md)
-   - [**图库页**](zh-CN/AdvancedAction_PhotosPage.md)
+   - [**图库页**](zh-CN/AdvancedAction_GalleryPage.md)
 
 
 **3-** [**所有工具**](#所有工具)
@@ -35,9 +28,9 @@
    - [**笔刷工具**](zh-CN/Tools_BrushTool.md)
    - [**图像工具**](zh-CN/Tools_ImageTool.md)
    - [**矢量裁剪工具**](zh-CN/Tools_CropTool.md)
-   - [**所有几何工具**](zh-CN/Tools_GeometrysTool.md)
-   - [**所有文本工具**](zh-CN/Tools_TextsTool.md)
-   - [**所有图案工具**](zh-CN/Tools_PatternsTool.md)
+   - [**所有几何工具**](zh-CN/Tools_GeometryTools.md)
+   - [**所有文本工具**](zh-CN/Tools_TextTools.md)
+   - [**所有图案工具**](zh-CN/Tools_PatternTools.md)
    - [**钢笔工具、节点工具**](zh-CN/Tools_PenNodeTool.md)
 
 
@@ -54,7 +47,7 @@
    - [**颜色菜单**](zh-CN/Menus_ColorMenu.md)
 
 
-**5-** [**图形工具**](#图形工具)
+**5-** [**样式**](#样式)
    - [**//笔刷**](#笔刷)
    - [**//填充**](#填充)
    - [**//描边**](#描边)
@@ -62,7 +55,7 @@
    - [**//描边样式**](#描边样式)
 
 
-**6-** [**曲线工具**](#曲线工具)
+**6-** [**曲线**](#曲线)
   - [**//组合**](#组合)
   - [**//转化为曲线**](#转化为曲线)
   - [**//节点**](#节点)

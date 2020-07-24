@@ -24,7 +24,7 @@
 # **选择图层**
 ![Image](Images/AdvancedAction_LayerPanel_Select.jpg)
 
-> **Click the Layer ListViewItem to select a Layer**
+> **点击图层列表视图子项，来选择图层**
 
 ![Image](Images/AdvancedAction_LayerPanel_Select_Second.jpg)
 

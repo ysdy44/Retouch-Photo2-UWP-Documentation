@@ -1,4 +1,4 @@
-![Image](Images/AdvancedAction_PhotosPage.png)
+![Image](Images/AdvancedAction_GalleryPage.png)
 # **图库页**
 **图库页用来导入并应用本地图像**
 - [**导航图库页**](#导航图库页) 
@@ -9,24 +9,24 @@
 <br/>
 
 # **导航图库页**
-![Image](Images/AdvancedAction_PhotosPage_Navigate_AddImage.jpg)
+![Image](Images/AdvancedAction_GalleryPage_Navigate_AddImage.jpg)
 > **图层栏 > 添加图像**
 
 <br/>
 
-![Image](Images/AdvancedAction_PhotosPage_Navigate_FilStrokelImage.jpg)
+![Image](Images/AdvancedAction_GalleryPage_Navigate_FilStrokelImage.jpg)
 > **笔刷工具 > 填充类型 > 图像**
 
 > **笔刷工具 > 描边类型 > 图像**
 
 <br/>
 
-![Image](Images/AdvancedAction_PhotosPage_Navigate_SelectImage.jpg)
+![Image](Images/AdvancedAction_GalleryPage_Navigate_SelectImage.jpg)
 > **图像工具 > 选择**
 
 <br/>
 
-![Image](Images/AdvancedAction_PhotosPage_Navigate_ReplaceImage.jpg)
+![Image](Images/AdvancedAction_GalleryPage_Navigate_ReplaceImage.jpg)
 > **图像工具 > 替换**
 
 

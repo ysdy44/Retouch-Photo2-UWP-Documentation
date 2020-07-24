@@ -30,7 +30,8 @@
 ![Image](Images/Tools_CursorTool_Selected.jpg)
 > **点击选择图层**
 
-> **拖拽框选图层**
+> **框选图层**
+
 
 <br/>
 

@@ -15,9 +15,9 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**宽度**|**Layer width  (relation to the selected anchor point)**|
-|**等比例缩放**|**When enabled, the width and height remain the current aspect ratio**|
-|**高度**|**Layer height  (relation to the selected anchor point)**|
+|**宽度**|**图层宽度（相对于与所选锚点）**|
+|**等比例缩放**|**启用后，宽度和高度将保持当前纵横比**|
+|**高度**|**图层高度（相对于与所选锚点）**|
 
 
 ---
@@ -28,9 +28,9 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**X-轴**|**Horizontal position**|
-|**位置遥控**|**Navigate to second page**|
-|**Y-轴**|**Vertical position**|
+|**X-轴**|**水平位置**|
+|**位置遥控**|**导航到第二页**|
+|**Y-轴**|**垂直位置**|
 
 > **“位置遥控”在第二页面**
 
@@ -42,9 +42,9 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**旋转**|**Rotation  (relation to the selected anchor point)**|
-|**步频**|**When rotating，capture 15 degrees of rotation angle**|
-|**倾斜**|**Shear  (relation to the selected anchor point)**|
+|**旋转**|**旋转（相对于与所选锚点）**|
+|**步频**|**旋转时，捕捉 15 度旋转角度**|
+|**倾斜**|**倾斜（相对于与所选锚点）**|
 
 
 ---
@@ -53,9 +53,9 @@
 # **锚点指示器**
 ![Image](Images/Menus_TransformerMenu_AnchorPointIndicator.jpg)
 
-> **Click on an anchor point to select**
+> **点击锚点来选择**
 
-> **If the upper-left anchor point of the anchor indicator is selected, the center point of the transformation is in the upper-left corner of the layer**
+> **如果选择锚点指示器的左上锚点，则变换的中心点位于图层的左上角**
 
 
 

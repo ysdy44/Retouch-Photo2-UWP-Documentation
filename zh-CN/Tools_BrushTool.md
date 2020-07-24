@@ -6,7 +6,7 @@
 - [**填充**](#填充)
 - [**描边**](#描边)
 
-> **A brush defines the color of things being drawn. It can be a solid color, or  a bitmap pattern, or a gradient**
+> **笔刷定义要绘制的东西的颜色。它可以是纯色，也可以是位图图案，也可以是渐变**
 
 
 ---
@@ -14,14 +14,14 @@
 
 # **填充或描边**
 ![Image](Images/Tools_BrushTool_FillOrStroke.jpg)
-> **一个图层包含两个笔刷：填充笔刷与描边笔刷**
+> **一个图层包含 2 个笔刷：填充笔刷与描边笔刷**
 
 ![Image](Images/Tools_BrushTool_FillOrStroke_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
-|**填充**|**用来填充形状内部区域的笔刷A brush used to fill the inner area of the shape**|
-|**描边**|**用来指定形状轮廓绘制方式的笔刷 A brush used to specify how shape outlines are drawn**|
+|**填充**|**用来填充形状内部区域的笔刷**|
+|**描边**|**用来指定形状轮廓绘制方式的笔刷**|
 
 ![Image](Images/Tools_BrushTool_FillOrStroke_Third.jpg)
 
@@ -31,20 +31,20 @@
 
 # **类型**
 ![Image](Images/Tools_BrushTool_Type.jpg)
-> **笔刷包含六种不同的类型**
+> **笔刷包含 6 种不同的类型**
 
 ![Image](Images/Tools_BrushTool_Type_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
 |**无**|**没有**|
-|**颜色**|**Paints shape a solid color**|
-|**线性**|**A brush used to paint a linear gradient**|
-|**径向**|**A brush used to paint a radial gradient**|
-|**椭圆形**|**A brush used to paint a elliptical gradient**|
-|**图像**|**A brush which paints using image content, such as a bitmap**|
+|**颜色**|**绘制形状为纯色**|
+|**线性**|**用于绘制线性渐变的笔刷**|
+|**径向**|**用于绘制径向渐变的笔刷**|
+|**椭圆形**|**用于绘制椭圆形渐变的笔刷**|
+|**图像**|**使用图像内容（如位图）绘制的笔刷**|
 
-> **Image brush can be used to producing  tiled backgrounds, or filling geometry with a pattern**
+> **图像笔刷可用于生成平铺背景，或使用图案填充几何图形**
 
 ![Image](Images/Tools_BrushTool_Type_Third.jpg)
 
@@ -73,14 +73,14 @@
 
 # **扩展**
 ![Image](Images/Tools_BrushTool_Extend.jpg)
-> **Specifies the way in which a brush paints areas outside its typical**
+> **指定笔刷在典型区域之外绘制区域的方式**
 
 ![Image](Images/Tools_BrushTool_Extend_Second.jpg)
 
 |**类型**|**介绍**|
 |:-|:-|
-|**重复**|**Repeat the edge pixels of the brush's content**|
-|**换行**|**Tile the brush's content**|
-|**镜像**|**Tile the the brush's content, and flip each alternate tile**| 
+|**重复**|**重复笔刷内容的边缘像素**|
+|**换行**|**平铺笔刷内容**|
+|**镜像**|**平铺笔刷内容，然后翻转每个备用磁贴**| 
 
 ![Image](Images/Tools_BrushTool_Extend_Third.jpg)

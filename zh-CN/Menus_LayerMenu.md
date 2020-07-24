@@ -1,6 +1,6 @@
 ![Image](Images/Menus_LayerMenu.png)
 # **图层菜单**
-**图层菜单用来修改图层的属性**
+**图层菜单用来修改图层的名称、不透明度、混合模式、可视和标签类型等属性**
 > **你可以双击或者右键图层项来显示图层菜单**
 
 - [**名称**](#名称)
@@ -33,7 +33,7 @@
 
 ## **混合模式**
 ![Image](Images/Menus_LayerMenu_BlendMode.jpg)
-> A blend-mode that combines two layers
+> **A blend-mode that combines two layers**
 
 ![Image](Images/Menus_LayerMenu_BlendMode_Second.jpg)
 

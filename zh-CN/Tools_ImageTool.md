@@ -10,28 +10,28 @@
 ---
 <br/>
 
-# **选择图片**
+# **选择图像**
 ![Image](Images/Tools_ImageTool_Select.jpg)
 > **点击进入图库页面**
 
-> **选择当前图片**
+> **选择当前图像**
 
 ---
 <br/>
 
-# **替换图片**
+# **替换图像**
 ![Image](Images/Tools_ImageTool_Replace.jpg)
 > **点击进入图库页面**
 
-> **替换选定图像图层的图片**
+> **替换选定图像图层的图像**
 
 
 ---
 <br/>
 
-# **清除当前图片**
+# **清除当前图像**
 ![Image](Images/Tools_ImageTool_Clear.jpg)
-> **清除当前图片**
+> **清除当前图像**
 
 
 ---

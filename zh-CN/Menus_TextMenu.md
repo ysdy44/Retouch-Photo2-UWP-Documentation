@@ -16,10 +16,10 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**左对齐**|**The left edge of the text is aligned to the left edge of the layout box**|
-|**居中对齐**|**The center of the text is aligned to the center of the layout box**|
-|**右对齐**|**The right edge of the text is aligned to the right edge of the layout box**|
-|**对齐**|**The left edge of the text is aligned to the left edge of the layout box and broken lines are aligned to the right edge**|
+|**左对齐**|**文本的左边缘与布局框的左边缘对齐**|
+|**居中对齐**|**文本的中心与布局框的中心对齐**|
+|**右对齐**|**文本的右边缘与布局框的右边缘对齐**|
+|**对齐**|**文本的左边缘与布局框的左边缘对齐，断线与右边缘对齐**|
 
 ---
 <br/>

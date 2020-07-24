@@ -15,11 +15,11 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**剪切**|**Remove the selected layers and put it on the clipboard**|
+|**剪切**|**删除所选图层，并将其放入剪贴板**|
 |**副本**|**插入选定图层的副本**|
-|**复制**|**Copy the selected layers to the clipboard**|
-|**粘贴**|**Insert the layers of the clipboard at the location**|
-|**清除**|**Clear the selected layers**|
+|**复制**|**将所选图层复制到剪贴板**|
+|**粘贴**|**将剪贴板的图层插入该位置**|
+|**清除**|**清除所选图层**|
 
 
 ---
@@ -43,9 +43,9 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**全选**|**Select all layers**|
-|**取消**|**Unselect all layers**|
-|**反选**|**Select all unselected layers, Unselect all selected layers**|
+|**全选**|**选择所有图层**|
+|**取消**|**取消选择所有图层**|
+|**反选**|**选择所有未选择的图层，取消选择所有选定的图层**|
 
 
 ---
@@ -56,11 +56,11 @@
 
 |**按钮**|**介绍**|
 |:-|:-|
-|**联合**|**The result geometry contains the set of all areas from either of the source geometries**|
-|**减少**|**The result geometry contains just the areas where the source geometries overlap**|
-|**差异**|**The result geometry contains the areas from both the source geometries, except for any parts where they overlap**|
-|**相交**|**The result geometry contains any area that is in the first source geometry- but  excludes any area belonging to the second geometry**|
-|**展开描边**|**Returns a geometry equivalent to a stroked area of this geometry, with the specified stroke width and a default stroke style**|
+|**联合**|**结果几何包含来自任一源几何的所有区域集合**|
+|**减少**|**结果几何仅仅包含所有源几何重叠的区域**|
+|**差异**|**结果几何体包含两个源几何中的区域，但重叠的任何零件除外**|
+|**相交**|**结果几何体包含第一个源几何体中的任何区域，但不包括属于第二个几何体的任何区域**|
+|**展开描边**|**返回等效于此几何体的描边区域的几何体，具有指定的描边宽度和默认描边样式**|
 
 <br/>
 

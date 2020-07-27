@@ -1,7 +1,3 @@
-This document is being refined...
-2020.7.24
-
-
 ![Image](Assets/logo.png)
 # **Retouch Photo 2  documentation**
 **Read the documentation to help you get started with Retouch Photo 2**

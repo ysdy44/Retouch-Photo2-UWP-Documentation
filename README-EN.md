@@ -34,7 +34,6 @@ This document is being refined...
    - [**Pen Tool、Node Tool**](en-US/Tools_PenNodeTool.md)
 
 
-
 **4-** [**Menus**](#Menus)
    - [**Edit Menu**](en-US/Menus_EditMenu.md)
    - [**Operate Menu**](en-US/Menus_OperateMenu.md)
@@ -48,19 +47,8 @@ This document is being refined...
 
 
 **5-** [**Style**](#Style)
-   - [**//Brush**](#Brush)
-   - [**//Fill**](#Fill)
-   - [**//Stroke**](#Stroke)
-   - [**//Stroke Width**](#Stroke_Width)
-   - [**//Stroke Style**](#Stroke_Style)
+   - [**Style**](en-US/Style.md)
 
 
 **6-** [**Curve**](#Curve)
-  - [**//Combine**](#Combine)
-  - [**//Convert to Curves**](#Convert_to_Curves)
-  - [**//Node**](#Node)
-  - [**//Control Point**](#Control_Point)
-
-
-**7-** [**More**](#More)
-  - [**//？**](#？)
+   - [**Curve**](en-US/Curve.md)

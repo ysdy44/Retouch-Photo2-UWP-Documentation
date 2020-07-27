@@ -1,6 +1,6 @@
 ![Image](Images/Tools_TransparencyTool.png)
 # **Transparency Tool**
-**Transparency Tool is used to modify the transparent gradient of a layer.**
+**Transparency Tool is used to modify the transparent gradient of a layer**
 - [**Type**](#Type)
 - [**Brush**](#Brush)
 

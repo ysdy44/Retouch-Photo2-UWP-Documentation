@@ -1,3 +1,4 @@
+2020.7.15
 # 修图2 UWP V1.1.8正式版
 
 Windows 10 应用商店地址： [Buy 修图2 UWP - Microsoft Store](https://www.microsoft.com/store/productId/9P76ZF661496)  

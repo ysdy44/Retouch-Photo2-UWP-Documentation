@@ -28,7 +28,7 @@ Windows 10 应用商店地址： [Buy 修图2 UWP - Microsoft Store](https://www
 
 也可以在主页面左上角寻找教程页面。
 
-![Image](Assets/Item-Show.jpg)
+![Image](Assets/ItemShow.jpg)
 
 <br/>
 

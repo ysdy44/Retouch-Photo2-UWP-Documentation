@@ -3,7 +3,7 @@
 **Read the documentation to help you get started with Retouch Photo 2**
  
  Windows 10 app store address: 
-[Buy Retouch Photo2 - Microsoft Store](https://www.microsoft.com/store/productId/9P76ZF661496)   
+[Buy Retouch Photo2 - Microsoft Store](https://apps.microsoft.com/detail/9p76zf661496)   
  
 
 ---
